@@ -1,3 +1,5 @@
-# javascript-tabs-pro
+# Javascript-tabs-project
+ 
+name - Aneeba Fatima
 <br>
-Author - Aneeba Moezz
+name - Aneeba Moezz
